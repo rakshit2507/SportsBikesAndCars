@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Home = () => {
+    // console.log("test")
   return (
     <div>
         <h1 className="ho-me">Sports Bikes and Cars</h1>
